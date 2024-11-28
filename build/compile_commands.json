@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/build",
+  "command": "/usr/bin/clang -g -Wall -Wextra -g -std=gnu11 -o CMakeFiles/grafo_matriz.dir/main.c.o -c /media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/main.c",
+  "file": "/media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/main.c"
+},
+{
+  "directory": "/media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/build",
+  "command": "/usr/bin/clang -g -Wall -Wextra -g -std=gnu11 -o CMakeFiles/grafo_matriz.dir/lista_dupla.c.o -c /media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/lista_dupla.c",
+  "file": "/media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/lista_dupla.c"
+}
+]

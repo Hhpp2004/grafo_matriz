@@ -1,0 +1,3 @@
+/media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/build/CMakeFiles/grafo_matriz.dir
+/media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/build/CMakeFiles/edit_cache.dir
+/media/henrique/Arquivos2/IFTM/Pesquisa_e_ordenacao/2024_2/grafo_matriz_v2/grafo_matriz/build/CMakeFiles/rebuild_cache.dir
